@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(205, 210, 203);
+    margin: 20px;
+    }
+hr{
+    border-color: grey;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px ;
+}
+h1 {
+    color: #66bfbf;
+    margin-top: 20px; 
+}
+h2 {
+    color: #66bfbf;
+}
+.bam{
+
+    padding: 20px; 
+    margin: 20px;
+}

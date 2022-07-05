@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #40414E;
+    
+}
+h1{
+    color:#0AA1DD;
+}
+.p,h2{
+    color: #0AA1DD;
+    
+}
+h3{
+    color: #0AA1DD;
+    
+}
+.mountain{
+    position: relative;
+    top: 60px;
+}
+ .cloud1{ 
+    position: relative;
+    left: 400px;
+    top: 10px;
+}
+.cloud2{
+    position: absolute;
+    left: 150px;
+} 
+.jas{
+    padding-top: 150px;
+}
+.skill{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-top{
+    float: left;
+    
+    padding-right: 50px;
+}
+.skill-bottom{
+    float: right;
+    padding-left: 50px;
+}
+hr{
+    border-color: grey;
+    border-style: dotted none none ;
+    width: 5%;
+    border-width: 5px;
+    }
+.king{
+    width: 35%;
+    margin: auto;
+    line-height: 2;
+}
+
+.last{
+    
+    background-color:#0AA1DD ;
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+a{
+    color: #11999E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #b7d67d;
+}
+.copyright{
+    color:#EAF6F6 ;
+    font-size: small;
+}
+.end{
+    padding-top: 50px;
+}
